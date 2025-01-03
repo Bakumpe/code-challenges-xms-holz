@@ -1,3 +1,18 @@
+/***
+ * Create a function add that takes two numbers and returns their sum.
+ * 
+ * start program
+ * 
+ * declare a function called add
+ * prompt user to enter two numbers
+ * convert the numbers to integers
+ * check if the numbers are valid
+ * add the two numbers
+ * display the sum of the two numbers
+ * 
+ * end program
+ */
+
 function add(){
     let num1 = prompt("Enter first number: ");
     let num2 = prompt("Enter second number: ");

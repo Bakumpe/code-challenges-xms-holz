@@ -1,3 +1,22 @@
+/***
+ * Title: Area of Rectangle
+ * 
+ * Write a program that calculates the area of a rectangle given length
+    and width.
+    
+    start program
+
+    declare a variable for length and width
+    create a function to take input from the user
+    solution for calculating the area is:
+ *  area = length * width
+    output the result to the user
+
+    end program
+ * 
+ */
+
+
 function areaOfRectangle() {
     
     const calculate = document.getElementById("submit");

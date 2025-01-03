@@ -1,3 +1,21 @@
+/***
+ * Create a function that accepts a string and counts how many vowels (a,
+e, i, o, u) it contains
+
+start program
+
+1. Accept a string from the user
+2. Create a variable to store the count of vowels
+3. Create an array of vowels
+4. Loop through the string
+5. Check if the current character is a vowel
+6. If it is a vowel, increment the count
+7. Display the count of vowels
+
+end program
+ */
+
+/**Example  */
 /*function vowels(){
     let str = prompt('Enter a string: ');
     console.log(str);
